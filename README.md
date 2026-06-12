@@ -200,7 +200,7 @@ Key KPIs and business performance summary.
 - Return Analysis
 
 <!-- Add your Product Analysis screenshot below -->
-![Product Analysis](Images/Product_Pnalysis.jpeg)
+![Product Analysis](Images/Product_Analysis.jpeg)
 
 ---
 
