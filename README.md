@@ -185,7 +185,7 @@ Key KPIs and business performance summary.
 - Return Summary
 
 <!-- Add your Executive Overview screenshot below -->
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 ---
 
@@ -200,7 +200,7 @@ Key KPIs and business performance summary.
 - Return Analysis
 
 <!-- Add your Product Analysis screenshot below -->
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](images/Product_Pnalysis.png)
 
 ---
 
@@ -214,14 +214,7 @@ Key KPIs and business performance summary.
 - Purchase Behavior Trends
 
 <!-- Add your Customer Analysis screenshot below -->
-![Customer Analysis](images/customer_analysis.png)
-
----
-
-### Data Model (Snowflake Schema)
-
-<!-- Add your data model / schema diagram below -->
-![Data Model](images/data_model.png)
+![Customer Analysis](images/Customer_Analysis.png)
 
 ---
 
@@ -236,14 +229,14 @@ Key KPIs and business performance summary.
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/sales-performance-dashboard.git
+git clone https://github.com/Yog-baviskar/PowerBI-SQL-Sales-Performence-Analysis
 ```
 
 2. Open the SQL scripts and create the required tables.
 
 3. Import data into the SQL database.
 
-4. Open the `.pbix` file in Power BI Desktop.
+4. Open the `powerbisales.pbix` file in Power BI Desktop.
 
 5. Update the SQL Server connection details.
 
@@ -282,7 +275,7 @@ The solution provides a centralized reporting system that enables stakeholders t
 
 ## Author & Contact
 
-### Harshal Patil
+### Yogesh Baviskar
 
 **Role:** Data Analyst
 
@@ -296,10 +289,10 @@ The solution provides a centralized reporting system that enables stakeholders t
 - Business Analytics
 
 ### GitHub
-https://github.com/your-github-username
+https://github.com/Yog-baviskar
 
 ### LinkedIn
-https://linkedin.com/in/your-linkedin-profile
+https://www.linkedin.com/in/yogesh-baviskar-a25141321
 
 ---
 ⭐ If you found this project useful, please consider giving it a star.
