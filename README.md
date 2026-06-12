@@ -185,7 +185,7 @@ Key KPIs and business performance summary.
 - Return Summary
 
 <!-- Add your Executive Overview screenshot below -->
-![Executive Overview](images/Executive_Overview.png)
+![Executive Overview](images/Executive_Overview.jpeg)
 
 ---
 
@@ -200,7 +200,7 @@ Key KPIs and business performance summary.
 - Return Analysis
 
 <!-- Add your Product Analysis screenshot below -->
-![Product Analysis](images/Product_Pnalysis.png)
+![Product Analysis](images/Product_Pnalysis.jpeg)
 
 ---
 
@@ -214,7 +214,7 @@ Key KPIs and business performance summary.
 - Purchase Behavior Trends
 
 <!-- Add your Customer Analysis screenshot below -->
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](images/Customer_Analysis.jpeg)
 
 ---
 
